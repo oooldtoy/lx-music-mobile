@@ -1,4 +1,4 @@
-package cn.toside.music.mobile.utils;
+package com.salt.music.utils;
 
 
 import android.content.Context;

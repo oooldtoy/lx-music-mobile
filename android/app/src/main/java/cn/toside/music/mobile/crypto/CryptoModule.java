@@ -1,4 +1,4 @@
-package cn.toside.music.mobile.crypto;
+package com.salt.music.crypto;
 
 import android.util.Base64;
 

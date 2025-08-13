@@ -1,4 +1,4 @@
-package cn.toside.music.mobile.cache;
+package com.salt.music.cache;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

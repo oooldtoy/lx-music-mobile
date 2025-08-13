@@ -1,4 +1,4 @@
-package cn.toside.music.mobile.userApi;
+package com.salt.music.userApi;
 
 import android.os.Build;
 import android.os.Bundle;
@@ -6,8 +6,8 @@ import android.os.Handler;
 import android.os.Message;
 import android.util.Base64;
 import android.util.Log;
-import cn.toside.music.mobile.crypto.AES;
-import cn.toside.music.mobile.crypto.RSA;
+import com.salt.music.crypto.AES;
+import com.salt.music.crypto.RSA;
 import com.facebook.react.bridge.ReactApplicationContext;
 
 import com.whl.quickjs.android.QuickJSLoader;

@@ -1,4 +1,4 @@
-package cn.toside.music.mobile.lyric;
+package com.salt.music.lyric;
 
 import android.os.Handler;
 

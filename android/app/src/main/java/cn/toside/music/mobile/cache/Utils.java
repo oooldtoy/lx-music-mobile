@@ -1,4 +1,4 @@
-package cn.toside.music.mobile.cache;
+package com.salt.music.cache;
 
 import android.content.Context;
 

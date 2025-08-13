@@ -1,4 +1,4 @@
-package cn.toside.music.mobile.userApi;
+package com.salt.music.userApi;
 
 import android.util.Log;
 

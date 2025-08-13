@@ -1,4 +1,4 @@
-package cn.toside.music.mobile.cache;
+package com.salt.music.cache;
 
 import com.facebook.react.bridge.Promise;
 import com.facebook.react.bridge.ReactApplicationContext;
@@ -7,9 +7,9 @@ import com.facebook.react.bridge.ReactMethod;
 
 import java.io.File;
 
-import static cn.toside.music.mobile.cache.Utils.clearCacheFolder;
-import static cn.toside.music.mobile.cache.Utils.getDirSize;
-import static cn.toside.music.mobile.cache.Utils.isMethodsCompat;
+import static com.salt.music.cache.Utils.clearCacheFolder;
+import static com.salt.music.cache.Utils.getDirSize;
+import static com.salt.music.cache.Utils.isMethodsCompat;
 
 // https://github.com/midas-gufei/react-native-clear-app-cache/tree/master/android/src/main/java/com/learnta/clear
 public class CacheModule extends ReactContextBaseJavaModule {
