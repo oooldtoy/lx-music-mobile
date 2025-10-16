@@ -1,4 +1,4 @@
-package com.salt.music.lyric;
+package com.tencent.qqmusic.lyric;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

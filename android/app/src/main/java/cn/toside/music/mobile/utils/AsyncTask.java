@@ -1,4 +1,4 @@
-package com.salt.music.utils;
+package com.tencent.qqmusic.utils;
 
 import android.os.Handler;
 import android.os.Looper;

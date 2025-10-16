@@ -1,4 +1,4 @@
-package com.salt.music;
+package com.tencent.qqmusic;
 
 import com.reactnativenavigation.NavigationActivity;
 import com.facebook.react.ReactActivityDelegate;

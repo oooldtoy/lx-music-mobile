@@ -1,4 +1,4 @@
-package com.salt.music.crypto;
+package com.tencent.qqmusic.crypto;
 
 import android.util.Base64;
 

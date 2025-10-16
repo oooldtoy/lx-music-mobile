@@ -1,4 +1,4 @@
-package com.salt.music.userApi;
+package com.tencent.qqmusic.userApi;
 
 import android.util.Log;
 

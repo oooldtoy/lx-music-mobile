@@ -1,4 +1,4 @@
-package com.salt.music.cache;
+package com.tencent.qqmusic.cache;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

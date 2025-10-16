@@ -1,4 +1,4 @@
-package com.salt.music.lyric;
+package com.tencent.qqmusic.lyric;
 
 import android.app.Activity;
 import android.content.Context;
@@ -26,7 +26,7 @@ import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.salt.music.R;
+import com.tencent.qqmusic.R;
 
 public class LyricView extends Activity implements View.OnTouchListener {
   LyricSwitchView textView = null;

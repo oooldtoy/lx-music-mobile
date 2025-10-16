@@ -1,4 +1,4 @@
-package com.salt.music.utils;
+package com.tencent.qqmusic.utils;
 
 import static android.content.Context.POWER_SERVICE;
 

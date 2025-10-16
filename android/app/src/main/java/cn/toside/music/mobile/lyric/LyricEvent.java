@@ -1,4 +1,4 @@
-package com.salt.music.lyric;
+package com.tencent.qqmusic.lyric;
 
 import androidx.annotation.Nullable;
 

@@ -1,4 +1,4 @@
-package com.salt.music.lyric;
+package com.tencent.qqmusic.lyric;
 
 import java.util.ArrayList;
 import java.util.Collections;

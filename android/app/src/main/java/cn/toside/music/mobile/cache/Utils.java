@@ -1,4 +1,4 @@
-package com.salt.music.cache;
+package com.tencent.qqmusic.cache;
 
 import android.content.Context;
 

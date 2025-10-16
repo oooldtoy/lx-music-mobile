@@ -1,4 +1,4 @@
-package com.salt.music.crypto;
+package com.tencent.qqmusic.crypto;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;

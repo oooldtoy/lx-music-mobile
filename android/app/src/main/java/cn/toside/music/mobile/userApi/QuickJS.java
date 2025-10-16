@@ -1,4 +1,4 @@
-package com.salt.music.userApi;
+package com.tencent.qqmusic.userApi;
 
 import android.os.Build;
 import android.os.Bundle;
@@ -6,8 +6,8 @@ import android.os.Handler;
 import android.os.Message;
 import android.util.Base64;
 import android.util.Log;
-import com.salt.music.crypto.AES;
-import com.salt.music.crypto.RSA;
+import com.tencent.qqmusic.crypto.AES;
+import com.tencent.qqmusic.crypto.RSA;
 import com.facebook.react.bridge.ReactApplicationContext;
 
 import com.whl.quickjs.android.QuickJSLoader;

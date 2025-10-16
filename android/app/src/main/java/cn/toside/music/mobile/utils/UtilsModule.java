@@ -1,4 +1,4 @@
-package com.salt.music.utils;
+package com.tencent.qqmusic.utils;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;

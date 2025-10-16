@@ -1,4 +1,4 @@
-package com.salt.music;
+package com.tencent.qqmusic;
 
 import com.facebook.react.PackageList;
 import com.facebook.react.flipper.ReactNativeFlipper;
@@ -9,11 +9,11 @@ import com.facebook.react.defaults.DefaultNewArchitectureEntryPoint;
 import com.reactnativenavigation.react.NavigationReactNativeHost;
 import java.util.List;
 
-import com.salt.music.cache.CachePackage;
-import com.salt.music.crypto.CryptoPackage;
-import com.salt.music.lyric.LyricPackage;
-import com.salt.music.userApi.UserApiPackage;
-import com.salt.music.utils.UtilsPackage;
+import com.tencent.qqmusic.cache.CachePackage;
+import com.tencent.qqmusic.crypto.CryptoPackage;
+import com.tencent.qqmusic.lyric.LyricPackage;
+import com.tencent.qqmusic.userApi.UserApiPackage;
+import com.tencent.qqmusic.utils.UtilsPackage;
 
 public class MainApplication extends NavigationApplication {
 

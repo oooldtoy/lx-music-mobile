@@ -1,4 +1,4 @@
-package com.salt.music.userApi;
+package com.tencent.qqmusic.userApi;
 
 public class HandlerWhat {
   public static final int ACTION = 1000;
